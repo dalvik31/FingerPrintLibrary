@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_authentication_success">¡Autenticación exitosa!</string>
+    <string name="msg_fingerprint_not_enable_settings">Autenticación por huella no ha sido habilitada en configuración Fingerprint</string>
+    <string name="msg_principal_autheintication_required">Tu autenticación es requerida</string>
+    <string name="msg_title_authentication">Identifícate</string>
+    <string name="msg_label_cancel">Cancelar</string>
+    <string name="msg_cancel_by_user">El usuario canceló la operación de huella digital.</string>
+</resources>
